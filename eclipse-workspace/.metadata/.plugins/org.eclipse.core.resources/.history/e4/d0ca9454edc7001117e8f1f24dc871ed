@@ -1,0 +1,31 @@
+
+import java.io.IOException;
+
+import javax.servlet.ServletException;
+import javax.servlet.annotation.WebServlet;
+import javax.servlet.http.HttpServlet;
+import javax.servlet.http.HttpServletRequest;
+import javax.servlet.http.HttpServletResponse;
+
+
+@WebServlet("/servlet_Context")
+public class servlet_Context extends HttpServlet {
+	
+	protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
+		 
+		ServletConfig = getServletConfig();
+		
+		
+//		ServletContext cx = getServletContext(); // these method belongs to the GenericSevlet class i.e we 
+//		// use it direclty 
+//		
+//		PrintWriter out = response.getWriter();
+//		
+//		out.println("Your name is "+cx.getInitParameter("collegeName")); 
+		
+		
+		
+		
+	}
+
+}

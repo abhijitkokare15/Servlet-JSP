@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+</head>
+<body>
+  <form  action="/add" method="post">
+  Enter no1 :<input type="number" name ="num1"/>
+  <br> Enter no2:<input type="number" name  ="num2"/>
+  
+  <button type ="Sumbit" > ADD_Numbers</button>
+  
+  
+  </form>
+
+</body>
+</html>

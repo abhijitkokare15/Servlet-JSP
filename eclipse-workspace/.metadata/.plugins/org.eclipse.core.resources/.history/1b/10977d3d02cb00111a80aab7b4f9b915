@@ -1,0 +1,36 @@
+
+import java.sql.*;
+
+public class DbDao {
+
+    public boolean check(String name, String password) {
+
+    	try
+    	{
+        String qr = "SELECT * FROM login WHERE name = ? AND password = ?";
+
+        Class.forName("com.mysql.cj.jdbc.Driver");
+
+        Connection con = DriverManager.getConnection("jdbc:mysql://localhost:3306/studentdb", "root", "");
+
+        PreparedStatement ps = con.prepareStatement(qr);
+
+        ps.setString(1, name);
+        ps.setString(2, password);
+
+        ResultSet rs = ps.executeQuery();
+
+        if (rs.next()) {
+            return true;
+        }
+        
+    	}
+    	
+    	catch(Exception e)
+    	{
+    		e.printStackTrace();
+    	}
+
+        return false;
+    }
+}

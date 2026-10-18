@@ -1,0 +1,19 @@
+
+public class Student {
+	
+	int roll_no;
+	String name;
+	
+	
+	
+	Student(int roll_no, String name)
+	{
+		roll_no = this.roll_no;
+		name=this.name;
+	}
+   
+	 String toString()
+	 {
+		 return roll_no,name;
+;	 }
+}

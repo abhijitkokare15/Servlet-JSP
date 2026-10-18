@@ -1,0 +1,33 @@
+
+<%@ page language="java"
+    contentType="text/html; charset=ISO-8859-1"
+    pageEncoding="ISO-8859-1"
+    import="javax.servlet.http.*" %>
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="ISO-8859-1">
+    <title>Tags in JSP</title>
+</head>
+<body>
+
+<%!
+void show(javax.servlet.jsp.JspWriter out)
+        throws java.io.IOException {
+    out.println("I am outside the service method");
+}
+
+int k = 1;
+%>
+
+<%
+out.println("I am present inside the service method");
+show(out);
+%>
+
+<h1><%= k %></h1>
+
+
+</body>
+</html>

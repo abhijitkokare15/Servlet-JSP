@@ -1,0 +1,38 @@
+
+Oct 16, 2026 17:05:03.833 NEW SESSION
+Oct 16, 2026 17:05:03.833 Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 16, 2026 17:05:07.291 [4604:22396:1016/170507.290:ERROR:google_apis\gcm\engine\registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+Oct 16, 2026 17:05:22.539 [4604:11072:1016/170522.538:ERROR:chrome\updater\ipc\update_service_dialer_win.cc:76] Failed to open named pipe server process 21748: Access is denied. (0x5)
+Oct 16, 2026 17:05:24.636 [4604:14768:1016/170524.635:ERROR:chrome\updater\ipc\update_service_dialer_win.cc:76] Failed to open named pipe server process 8588: Access is denied. (0x5)
+Oct 16, 2026 17:05:24.700 [4604:11072:1016/170524.700:ERROR:chrome\updater\ipc\update_service_dialer_win.cc:76] Failed to open named pipe server process 22484: Access is denied. (0x5)
+Oct 16, 2026 17:05:26.764 [4604:14768:1016/170526.764:ERROR:chrome\updater\ipc\update_service_dialer_win.cc:76] Failed to open named pipe server process 20504: Access is denied. (0x5)
+Oct 16, 2026 17:05:28.857 [4604:11072:1016/170528.856:ERROR:chrome\updater\ipc\update_service_dialer_win.cc:76] Failed to open named pipe server process 16492: Access is denied. (0x5)
+Oct 16, 2026 17:05:28.923 [4604:14768:1016/170528.923:ERROR:chrome\updater\ipc\update_service_dialer_win.cc:76] Failed to open named pipe server process 10960: Access is denied. (0x5)
+Oct 16, 2026 17:05:33.668 [4604:22396:1016/170533.667:ERROR:google_apis\gcm\engine\registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+Oct 16, 2026 17:06:26.235 [4604:22396:1016/170626.234:ERROR:google_apis\gcm\engine\registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+Oct 16, 2026 17:07:57.130 [4604:22396:1016/170757.130:ERROR:google_apis\gcm\engine\registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+Oct 16, 2026 17:08:28.29 [4604:5988:1016/170828.028:ERROR:chrome\browser\ui\webui\ntp\new_tab_ui.cc:54] Requested load of chrome://newtab/ for incorrect profile type.
+Oct 16, 2026 17:08:28.30 [4604:5988:1016/170828.028:ERROR:chrome\browser\ui\webui\ntp\new_tab_ui.cc:54] Requested load of chrome://newtab/ for incorrect profile type.
+Oct 16, 2026 17:08:28.98 [4604:5988:1016/170828.097:ERROR:chrome\browser\ui\webui\ntp\new_tab_ui.cc:54] Requested load of chrome://newtab/ for incorrect profile type.
+Oct 16, 2026 17:08:28.99 [4604:5988:1016/170828.098:ERROR:chrome\browser\ui\webui\ntp\new_tab_ui.cc:54] Requested load of chrome://newtab/ for incorrect profile type.
+Oct 16, 2026 17:08:28.742 [4604:5988:1016/170828.742:ERROR:chrome\browser\ui\webui\ntp\new_tab_ui.cc:54] Requested load of chrome://newtab/ for incorrect profile type.
+Oct 16, 2026 17:08:29.14 [4604:5988:1016/170829.014:ERROR:chrome\browser\ui\webui\ntp\new_tab_ui.cc:54] Requested load of chrome://newtab/ for incorrect profile type.
+Oct 16, 2026 17:08:29.382 [4604:5988:1016/170829.381:ERROR:chrome\browser\ui\webui\ntp\new_tab_ui.cc:54] Requested load of chrome://newtab/ for incorrect profile type.
+Oct 16, 2026 17:08:34.993 [4604:5988:1016/170834.992:ERROR:chrome\browser\ui\webui\ntp\new_tab_ui.cc:54] Requested load of chrome://newtab/ for incorrect profile type.
+Oct 16, 2026 17:08:34.994 [4604:5988:1016/170834.992:ERROR:chrome\browser\ui\webui\ntp\new_tab_ui.cc:54] Requested load of chrome://newtab/ for incorrect profile type.
+Oct 16, 2026 17:08:35.52 [4604:5988:1016/170835.052:ERROR:chrome\browser\ui\webui\ntp\new_tab_ui.cc:54] Requested load of chrome://newtab/ for incorrect profile type.
+Oct 16, 2026 17:08:35.53 [4604:5988:1016/170835.053:ERROR:chrome\browser\ui\webui\ntp\new_tab_ui.cc:54] Requested load of chrome://newtab/ for incorrect profile type.
+Oct 16, 2026 17:08:36.763 [4604:5988:1016/170836.762:ERROR:chrome\browser\ui\webui\ntp\new_tab_ui.cc:54] Requested load of chrome://newtab/ for incorrect profile type.
+Oct 16, 2026 17:11:42.790 [4604:22396:1016/171142.788:ERROR:google_apis\gcm\engine\registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+Oct 16, 2026 17:19:18.167 [4604:22396:1016/171918.166:ERROR:google_apis\gcm\engine\registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+Oct 16, 2026 17:29:40.09 [4604:5988:1016/172940.009:ERROR:chrome\browser\ui\webui\ntp\new_tab_ui.cc:54] Requested load of chrome://newtab/ for incorrect profile type.
+Oct 16, 2026 17:29:40.10 [4604:5988:1016/172940.009:ERROR:chrome\browser\ui\webui\ntp\new_tab_ui.cc:54] Requested load of chrome://newtab/ for incorrect profile type.
+Oct 16, 2026 17:29:40.63 [4604:5988:1016/172940.063:ERROR:chrome\browser\ui\webui\ntp\new_tab_ui.cc:54] Requested load of chrome://newtab/ for incorrect profile type.
+Oct 16, 2026 17:29:40.66 [4604:5988:1016/172940.065:ERROR:chrome\browser\ui\webui\ntp\new_tab_ui.cc:54] Requested load of chrome://newtab/ for incorrect profile type.
+Oct 16, 2026 17:29:40.263 [4604:5988:1016/172940.262:ERROR:chrome\browser\ui\webui\ntp\new_tab_ui.cc:54] Requested load of chrome://newtab/ for incorrect profile type.
+Oct 16, 2026 17:29:40.509 [4604:5988:1016/172940.509:ERROR:chrome\browser\ui\webui\ntp\new_tab_ui.cc:54] Requested load of chrome://newtab/ for incorrect profile type.
+Oct 16, 2026 17:29:40.822 [4604:5988:1016/172940.821:ERROR:chrome\browser\ui\webui\ntp\new_tab_ui.cc:54] Requested load of chrome://newtab/ for incorrect profile type.
+Oct 16, 2026 17:29:44.894 [4604:5988:1016/172944.893:ERROR:chrome\browser\ui\webui\ntp\new_tab_ui.cc:54] Requested load of chrome://newtab/ for incorrect profile type.
+Oct 16, 2026 17:34:28.239 [4604:22396:1016/173428.238:ERROR:google_apis\gcm\engine\connection_factory_impl.cc:474] ConnectionHandler failed with net error: -2
+Oct 16, 2026 17:34:28.241 [4604:22396:1016/173428.240:ERROR:google_apis\gcm\engine\connection_factory_impl.cc:427] Failed to connect to MCS endpoint with error -105
+Oct 16, 2026 17:36:56.117 [4604:22396:1016/173656.117:ERROR:google_apis\gcm\engine\connection_factory_impl.cc:474] ConnectionHandler failed with net error: -2

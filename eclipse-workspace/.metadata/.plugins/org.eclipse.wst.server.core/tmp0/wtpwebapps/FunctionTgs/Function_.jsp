@@ -1,0 +1,29 @@
+
+<%@ page language="java" contentType="text/html; charset=ISO-8859-1"
+    pageEncoding="ISO-8859-1"%>
+
+<%@ taglib prefix="fn"
+    uri="http://java.sun.com/jsp/jstl/functions" %>
+
+<%@ taglib prefix="co"
+    uri="http://java.sun.com/jsp/jstl/core" %>
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>JSTL Functions</title>
+</head>
+<body>
+
+<co:set var="uname" value="TTD - Tirumala Tirupati Devasthan"/>
+
+The length of uname is: ${fn:length(uname)}
+
+<br>
+
+Uppercase: ${fn:toUpperCase(uname)}
+
+
+</body>
+</html>
