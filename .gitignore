@@ -1,0 +1,23 @@
+# Java build output
+*.class
+bin/
+target/
+build/
+out/
+
+# Packaged artifacts
+*.war
+*.ear
+
+# Eclipse workspace metadata (keep project configuration files shareable)
+.metadata/
+**/.metadata/
+
+# Server/container runtime output
+**/work/
+**/temp/
+*.log
+
+# Operating system files
+.DS_Store
+Thumbs.db
